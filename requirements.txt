@@ -1,0 +1,5 @@
+asyncio~=3.4.3
+aiohttp~=3.8.3
+aiohttp-proxy~=0.1.2
+fake-useragent~=1.1.0
+loguru~=0.6.0
